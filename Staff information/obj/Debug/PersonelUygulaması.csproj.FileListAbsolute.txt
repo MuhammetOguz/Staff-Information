@@ -1,0 +1,12 @@
+C:\Users\Windows10\Desktop\PersonelUygulaması\PersonelUygulaması\bin\Debug\PersonelUygulaması.exe.config
+C:\Users\Windows10\Desktop\PersonelUygulaması\PersonelUygulaması\bin\Debug\PersonelUygulaması.exe
+C:\Users\Windows10\Desktop\PersonelUygulaması\PersonelUygulaması\bin\Debug\PersonelUygulaması.pdb
+C:\Users\Windows10\Desktop\PersonelUygulaması\PersonelUygulaması\obj\Debug\PersonelUygulaması.csproj.AssemblyReference.cache
+C:\Users\Windows10\Desktop\PersonelUygulaması\PersonelUygulaması\obj\Debug\PersonelUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows10\Desktop\PersonelUygulaması\PersonelUygulaması\obj\Debug\PersonelUygulaması.Form1.resources
+C:\Users\Windows10\Desktop\PersonelUygulaması\PersonelUygulaması\obj\Debug\PersonelUygulaması.Properties.Resources.resources
+C:\Users\Windows10\Desktop\PersonelUygulaması\PersonelUygulaması\obj\Debug\PersonelUygulaması.csproj.GenerateResource.cache
+C:\Users\Windows10\Desktop\PersonelUygulaması\PersonelUygulaması\obj\Debug\PersonelUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Desktop\PersonelUygulaması\PersonelUygulaması\obj\Debug\PersonelUygulaması.exe
+C:\Users\Windows10\Desktop\PersonelUygulaması\PersonelUygulaması\obj\Debug\PersonelUygulaması.pdb
+C:\Users\Windows10\Desktop\PersonelUygulaması\PersonelUygulaması\obj\Debug\PersonelUygulaması.AdminGiris.resources
